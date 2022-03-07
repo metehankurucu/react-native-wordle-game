@@ -1,7 +1,10 @@
 {
   "name": "wordle",
   "version": "0.0.1",
+  "description": "Wordle game built with React Native.",
   "private": true,
+  "author": "Metehan Kurucu",
+  "license": "GNU",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -35,5 +38,12 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "keywords": [
+    "react",
+    "native",
+    "wordle",
+    "game",
+    "word-game"
+  ]
 }
